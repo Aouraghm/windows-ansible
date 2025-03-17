@@ -1,7 +1,7 @@
 [windows]
-57.153.193.221
+135.225.248.127
 
 
 [windows:vars]
-ansible_user=maouragh
-ansible_password=M@ouragh2024
+ansible_user=winsible
+ansible_password=Winsible2025
